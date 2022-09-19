@@ -305,3 +305,17 @@ justify-content: space-between;
  .slide img:hover {
   transform: translateZ(20px);
  }
+ /* Css de Quienes somos */ 
+
+ main{
+  min-height:40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+ }
+
+ .content-Quisommesnous{
+  
+}
